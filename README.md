@@ -10,7 +10,7 @@ example_website/app/public/wp-content/plugins/
 then open the folder in vscode
 
 ```JavaScript
-cd example_website/app/public/wp-content/plugins/widget
+cd example_website/app/public/wp-content/plugins/`${example_folder}`
 ```
 now install dependencies and build the application in the "widget" folder
 
