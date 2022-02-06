@@ -1,7 +1,7 @@
 ## Monalisa 
 #### By Vinciis
 Monalisa is the flagship API by Vinciis for affliated advertising on web assets.
-for using, install the package by using 
+for using, install the package by following steps
 
 copy the folder Monalisa to your wordpress website's plugin directory
 ```JavaScript
